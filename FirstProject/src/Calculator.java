@@ -9,7 +9,7 @@ public class Calculator {
 	z=x+y;
 }
     void dispaly() {
-	System.out.println("The result is "+z);
+	System.out.println("The res is "+z);
 }
     public static void main(String[] args) {
 	Calculator c=new Calculator();
